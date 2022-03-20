@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Wallpaper One",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image1.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image1.jpeg"
+  },
+  {
+    "title": "Wallpaper Two",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image2.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image2.jpeg"
+  },
+  {
+    "title": "Wallpaper Three",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image3.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image3.jpeg"
+  },
+  {
+    "title": "Wallpaper Four",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image4.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image4.jpeg"
+  },
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image5.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image5.jpeg"
+  },
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image6.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image6.jpeg"
+  },
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image7.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image7.jpeg"
+  },
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image8.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image8.jpeg"
+  }
+,
+  {
+    "title": "Wallpaper Five",
+    "thumbnail": "https://ramadanback.herokuapp.com/thumbnails/image9.jpg",
+    "image": "https://ramadanback.herokuapp.com/images/image9.jpeg"
+  }
+]
